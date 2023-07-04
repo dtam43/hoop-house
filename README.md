@@ -37,13 +37,13 @@ These instructions cover only the setup of the backend server. Client instructio
    ```
 5. Reboot the server. You can probaby do this by running `init 6`
 
-## Client setup instructions
+## Client Setup Instructions
 
 The client is a simple single-page web app, to set it up it is recommended you install a web server on the same sever you host the backend. [DigitalOcean has a great guide on setting up NGINX](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 
 After setting up, edit the first line of `god.js` to point to your server and port. Then, upload the files and check that you can navigate to them.
 
-## Pi setup instructions
+## Setting Up the Raspberry Pi
 
 It is recommended you use Windows with [Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701).
 
