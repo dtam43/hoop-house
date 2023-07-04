@@ -1,4 +1,4 @@
-## Hoophouse manager
+## Hoop House Controller
 
 This project was created for Western Engineering's Design course. Here you'll find the web-application portion of the project, which ran off of a personal server to remotely control the Hoop Houses. 
 
@@ -7,7 +7,7 @@ This project was created for Western Engineering's Design course. Here you'll fi
 
 To see working images of this project, please visit <a href="https://davidtam.me/project_pages/hoophouse"> here </a>.
 
-## Server setup instructions
+## Server Setup Instructions
 
 For proper use of this product, you'll need a backend server and a Raspberry Pi with a compatible temperature sensor and camera.
 These instructions cover only the setup of the backend server. Client instructions are detailed elsewhere. **These instructions are for Ubuntu 20.04**
