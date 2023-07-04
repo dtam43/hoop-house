@@ -1,9 +1,15 @@
-# Hoophouse manager
+## Hoophouse manager
 
-This is a project for ES1050 at Western University. For proper use, you'll need a backend server and a raspberry pi with a compatible temperature sensor and camera.
+This project was created for Western Engineering's Design course. Here you'll find the web-application portion of the project, which ran off of a personal server to remotely control the Hoop Houses. 
+
+
+## Documentation
+
+To see working images of this project, please visit <a href="https://davidtam.me/project_pages/hoophouse"> here </a>.
 
 ## Server setup instructions
 
+For proper use of this product, you'll need a backend server and a Raspberry Pi with a compatible temperature sensor and camera.
 These instructions cover only the setup of the backend server. Client instructions are detailed elsewhere. **These instructions are for Ubuntu 20.04**
 
 > It is recommended to set this project up in a container (using something like LXD) if applicable.
